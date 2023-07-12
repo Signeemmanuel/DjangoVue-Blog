@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     
     # Third party libraries
     "rest_framework",
+    "rest_framework.authtoken",
     
     # Internal apps
     "api.apps.ApiConfig",
